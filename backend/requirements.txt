@@ -1,0 +1,12 @@
+# Core web API
+fastapi
+uvicorn
+
+# Data and validation
+pandas
+pydantic
+python-dotenv
+
+# LangGraph and LLM integration
+langgraph
+langchain-groq

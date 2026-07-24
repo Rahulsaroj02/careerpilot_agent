@@ -1,0 +1,10 @@
+role,domain,experience_level,required_skills,preferred_skills,certifications,common_tools,recommended_projects,learning_path,interview_focus
+Java Full Stack Developer,Software Development,Entry,Java; OOP; Collections; JDBC; Spring Boot; Hibernate; REST API; MySQL; HTML; CSS; JavaScript; React; Git; Docker,AWS; CI/CD,Oracle Java OCP; AWS CCP,IntelliJ; VS Code; Postman; Docker,Student Management System,Java → Spring Boot → React → Docker → AWS,Core Java; Spring; SQL; REST
+Python Full Stack Developer,Software Development,Entry,Python; Flask; Django; FastAPI; REST API; SQL; HTML; CSS; JavaScript; React; Git,Docker; AWS,PCAP,VS Code; Postman,Blog Platform,Python → Flask/Django → React,Python; APIs
+AI Engineer,Artificial Intelligence,Entry,Python; NumPy; Pandas; Scikit-learn; TensorFlow; PyTorch; LangChain; LangGraph; Prompt Engineering; RAG,Vector DB,TensorFlow Developer,Jupyter; VS Code,AI Career Mentor,Python → ML → LLMs → Agents,ML; LLMs
+Data Analyst,Data Analytics,Entry,Excel; SQL; Python; Pandas; NumPy; Power BI,Tableau,PL-300,Power BI; Excel,Sales Dashboard,Excel → SQL → Power BI,SQL; Analytics
+Cloud Engineer,Cloud Computing,Entry,Linux; Networking; AWS IAM; EC2; S3; VPC; RDS; Lambda; CloudWatch,Terraform,AWS SAA,AWS Console,Cloud Deployment,Linux → AWS Core,AWS Services
+DevOps Engineer,Cloud & DevOps,Entry,Linux; Git; Docker; Kubernetes; Jenkins; CI/CD; AWS,Terraform,CKA,Docker; Jenkins,CI/CD Pipeline,Linux → Docker → Kubernetes,Containers; CI/CD
+Frontend Developer,Web Development,Entry,HTML; CSS; JavaScript; React; Redux; Git,TypeScript,Meta Front-End,VS Code,Portfolio Website,HTML → JS → React,JS; React
+Backend Developer,Web Development,Entry,Java/Python/Node.js; REST API; SQL; MongoDB; Authentication,Docker,None,Postman,REST API,Backend Basics,APIs; DB
+Cybersecurity Analyst,Cybersecurity,Entry,Networking; Linux; Python; SIEM; Wireshark; Nmap,Cloud Security,Security+,Wireshark,Network Monitor,Networking → Security,Networking

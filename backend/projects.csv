@@ -1,0 +1,13 @@
+project_name,category,difficulty,target_roles,skills_required,estimated_duration,description
+Student Management System,Web,Beginner,Java Full Stack Developer; Backend Developer,Java; Spring Boot; MySQL; HTML; CSS,3-4 weeks,CRUD application with authentication and role management.
+Expense Tracker,Web,Beginner,Java Full Stack Developer; Python Full Stack Developer,REST API; SQL; React,2-3 weeks,"Track income, expenses and budgets."
+AI Career Mentor Agent,AI Agent,Intermediate,AI Engineer; Python Developer,Python; LangGraph; LangChain; Prompt Engineering,3-5 weeks,Analyzes skills and generates learning roadmap.
+Hospital Management System,Web,Intermediate,Backend Developer,Spring Boot; React; MongoDB,4-6 weeks,"Manage patients, doctors and appointments."
+E-Commerce Platform,Web,Intermediate,Full Stack Developer,React; Node.js; MongoDB; JWT,5-7 weeks,Online shopping application with cart and payments.
+Chat Application,Web,Intermediate,Full Stack Developer,WebSockets; Node.js; React,3-4 weeks,Real-time messaging platform.
+Task Management System,Web,Beginner,Frontend Developer; Backend Developer,React; Express; MongoDB,2-3 weeks,Kanban-style task manager.
+Library Management System,Web,Beginner,Java Developer,Java; SQL,2-3 weeks,Book issue and return management.
+Cloud File Storage,Cloud,Advanced,Cloud Engineer,AWS S3; IAM; Lambda,4-6 weeks,Secure cloud file storage system.
+Network Monitoring Tool,Cybersecurity,Advanced,Cybersecurity Analyst,Python; Networking,4-6 weeks,Monitor devices and network health.
+Sales Dashboard,Data Analytics,Intermediate,Data Analyst,Power BI; SQL; Excel,2-3 weeks,Interactive business analytics dashboard.
+Movie Recommendation System,Machine Learning,Intermediate,AI Engineer,Python; Pandas; Scikit-learn,3-5 weeks,Recommend movies using ML.
