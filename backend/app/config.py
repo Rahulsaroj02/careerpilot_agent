@@ -32,11 +32,14 @@ PROJECTS_CSV = BACKEND_DIR / "projects.csv"
 career_df = load_csv_dataframe(CAREER_DOMAINS_CSV)
 projects_df = load_csv_dataframe(PROJECTS_CSV)
 
-if ChatGroq is None or not GROQ_API_KEY:
-    llm = None
-else:
-    llm = ChatGroq(
-        model=GROQ_MODEL,
-        temperature=LLM_TEMPERATURE,
-        api_key=GROQ_API_KEY,
-    )
+if ChatGroq is None:
+    raise ImportError("langchain-groq is not installed")
+
+if not GROQ_API_KEY:
+    raise RuntimeError("GROQ_API_KEY is not configured")
+
+llm = ChatGroq(
+    model=GROQ_MODEL,
+    temperature=LLM_TEMPERATURE,
+    api_key=GROQ_API_KEY,
+)

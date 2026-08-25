@@ -21,6 +21,10 @@ app.add_middleware(
 )
 
 
+@app.get("/")
+def root():
+    return {"message": "CareerPilot API is running"}
+
 @app.post("/career-agent", response_model=CareerResponse)
 def run_career_agent(request: CareerRequest) -> CareerResponse:
     initial_state: CareerState = {
